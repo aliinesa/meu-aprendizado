@@ -25,9 +25,9 @@ Repositório para o meu aprendizado de QA.
 
 - Entendendo a comunicação entre sistemas (BackEnd e FrontEnd) <b> - FEITO </b>
 
-- JSON (anotar em um arquivo a parte tudo o que foi entendido a respeito do mesmo) <b> - FEITO (11/04) </b>
+- JSON (anotar em um arquivo a parte tudo o que foi entendido a respeito do mesmo) <b> - FEITO </b>
 
-- Status Code (assistir vídeos simples e anotar em um arquivo a parte) <b> - FEITO (13/04) </b>
+- Status Code (assistir vídeos simples e anotar em um arquivo a parte) <b> - FEITO  </b>
 
 - Componentes Front End <b> - FEITO </b>
   - Biblioteca do Twitter (Bootstrap): https://getbootstrap.com.br/docs/4.1/components/alerts/
@@ -58,7 +58,7 @@ Repositório para o meu aprendizado de QA.
   - Verbos/Métodos
     - Get, Post, Delete e Put (apenas esses 4)
 
-- Testes de Backend <b> - FEITO ... </b>
+- Testes de Backend <b> - FEITO </b>
   - Swagger
   - Postman
   - Inspecionar Elementos (f12 do navegador) ** <b> - O mais comum!! </b>
